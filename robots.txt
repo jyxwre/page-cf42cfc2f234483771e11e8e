@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.maoxiongjc.com/sitemap.xml
